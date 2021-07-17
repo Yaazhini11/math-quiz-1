@@ -1,0 +1,13 @@
+body {
+    background-color: yellow;
+}
+
+#head1 {
+text-align: center;
+}
+
+#logo {
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+}
